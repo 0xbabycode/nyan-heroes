@@ -37,7 +37,7 @@ To obtain the API token, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dante4rt/nyan-heroes-bot.git
+git clone https://github.com/0xbabycode/nyan-heroes.git
 ```
 
 2. Install dependencies:
