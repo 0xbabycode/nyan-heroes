@@ -8,7 +8,7 @@ async function clearTask(tasks) {
         method: 'POST',
         url: 'https://api.nyanheroes.com/Quest/setQuest',
         headers: {
-          Authorization: `Bearer ${process.env.TOKEN}`,
+          Authorization: `Bearer TOKEN`,
         },
         data: {
           Id: task.id,
